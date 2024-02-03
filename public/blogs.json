@@ -1,48 +1,72 @@
 [
-    {
-      "id": 1,
-      "cover": "https://example.com/cover1.jpg",
-      "author": "Senior Writer",
-      "author_img": "https://example.com/author1.jpg",
-      "posted_date": "2024-02-03",
-      "reading_time": 10,
-      "hashtag": ["technology", "innovation", "coding"]
-    },
-    {
-      "id": 2,
-      "cover": "https://example.com/cover2.jpg",
-      "author": "Travel Enthusiast",
-      "author_img": "https://example.com/author2.jpg",
-      "posted_date": "2024-01-28",
-      "reading_time": 8,
-      "hashtag": ["travel", "adventure", "exploration"]
-    },
-    {
-      "id": 3,
-      "cover": "https://example.com/cover3.jpg",
-      "author": "Fitness Guru",
-      "author_img": "https://example.com/author3.jpg",
-      "posted_date": "2024-01-15",
-      "reading_time": 12,
-      "hashtag": ["fitness", "health", "wellness"]
-    },
-    {
-      "id": 4,
-      "cover": "https://example.com/cover4.jpg",
-      "author": "Recipe Developer",
-      "author_img": "https://example.com/author4.jpg",
-      "posted_date": "2023-12-22",
-      "reading_time": 15,
-      "hashtag": ["cooking", "recipes", "foodie"]
-    },
-    {
-      "id": 5,
-      "cover": "https://example.com/cover5.jpg",
-      "author": "Financial Analyst",
-      "author_img": "https://example.com/author5.jpg",
-      "posted_date": "2023-12-05",
-      "reading_time": 7,
-      "hashtag": ["finance", "investing", "moneymanagement"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Exploring the Latest Technological Innovations",
+    "cover": "https://img.freepik.com/free-photo/technology-netowrking-binary-code-computer-language_53876-124323.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "author": "Senior Writer",
+    "author_img": "https://img.freepik.com/premium-vector/avatar-comics-girl-icon-isolated-white-background_98402-70220.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "posted_date": "jan 10,2022",
+    "reading_time": 10,
+    "hashtag": [
+      "technology",
+      "innovation",
+      "coding"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Journey into Uncharted Territories",
+    "cover": "https://img.freepik.com/free-vector/gradient-bim-horizontal-banner_23-2150244627.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "author": "Travel Enthusiast",
+    "author_img": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "posted_date": "Feb 15,2023",
+    "reading_time": 8,
+    "hashtag": [
+      "travel",
+      "adventure",
+      "exploration"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Achieving Wellness Through Fitness",
+    "cover": "https://img.freepik.com/free-vector/template-technology-concept-landing-page_23-2148339295.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "author": "Fitness Guru",
+    "author_img": "https://img.freepik.com/premium-vector/blog-design_25030-17160.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "posted_date": "April 30,2023",
+    "reading_time": 12,
+    "hashtag": [
+      "fitness",
+      "health",
+      "wellness"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Delicious Recipes for Every Occasion",
+    "cover": "https://img.freepik.com/free-photo/communication-connection-online-technology-community-word_53876-13866.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "author": "Recipe Developer",
+    "author_img": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-855.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "posted_date": "May 10,2023",
+    "reading_time": 15,
+    "hashtag": [
+      "cooking",
+      "recipes",
+      "foodie"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Smart Money Management Tips",
+    "cover": "https://img.freepik.com/free-vector/technology-future-landing-page-template_23-2148828560.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "author": "Financial Analyst",
+    "author_img": "https://img.freepik.com/premium-vector/young-hispanic-boy-flat-color-cartoon-avatar-icon-man-smiling-teammate-editable-2d-user-portrait-linear-illustration-isolated-vector-face-profile-clipart-userpic-person-head-shoulders_151150-19483.jpg?size=626&ext=jpg&ga=GA1.1.743102020.1706969666&semt=ais",
+    "posted_date": "June 10,2023",
+    "reading_time": 7,
+    "hashtag": [
+      "finance",
+      "investing",
+      "moneymanagement"
+    ]
+  }
+]
