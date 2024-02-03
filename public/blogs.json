@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "author": "Senior Writer",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-02-03",
+      "reading_time": 10,
+      "hashtag": ["technology", "innovation", "coding"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "author": "Travel Enthusiast",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-01-28",
+      "reading_time": 8,
+      "hashtag": ["travel", "adventure", "exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "author": "Fitness Guru",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-01-15",
+      "reading_time": 12,
+      "hashtag": ["fitness", "health", "wellness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "author": "Recipe Developer",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2023-12-22",
+      "reading_time": 15,
+      "hashtag": ["cooking", "recipes", "foodie"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "author": "Financial Analyst",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2023-12-05",
+      "reading_time": 7,
+      "hashtag": ["finance", "investing", "moneymanagement"]
+    }
+  ]
+  
